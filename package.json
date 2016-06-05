@@ -1,0 +1,38 @@
+{
+  "name": "node-blueimp",
+  "version": "0.4.5",
+  "description": "jQuery File Upload using Expressjs : cloned from Arvind Ravulavaru's blueimp-file-upload-expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node specs/"
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "aws-sdk": "^2.1.20",
+    "formidable": "^1.0.17",
+    "lwip": "^0.0.9",
+    "mkdirp": "0.5.0"
+  },
+  "devDependencies": {
+    "jasmine-node": "1.14.2",
+    "jshint-stylish": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudgen/node-blueimp.git"
+  },
+  "keywords": [
+    "jQuery",
+    "file",
+    "upload",
+    "expressjs"
+  ],
+  "author": {
+    "name": "Cloudgen Wong"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloudgen/node-blueimp/issues"
+  },
+  "homepage": "https://github.com/cloudgen/node-blueimp"
+}
