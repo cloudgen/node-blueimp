@@ -1,6 +1,6 @@
 {
   "name": "node-blueimp",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "jQuery File Upload using Expressjs : cloned from Arvind Ravulavaru's blueimp-file-upload-expressjs",
   "main": "index.js",
   "scripts": {
